@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hhhabcc.github.io/2022/07/02-195207.html</loc>
+    
+    <lastmod>2022-07-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hhhabcc.github.io/2022/07/02-192724.html</loc>
     
     <lastmod>2022-07-02</lastmod>
@@ -73,6 +82,20 @@
   
   <url>
     <loc>https://hhhabcc.github.io/tags/BibleBlack/</loc>
+    <lastmod>2022-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hhhabcc.github.io/tags/%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%BC/</loc>
+    <lastmod>2022-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hhhabcc.github.io/tags/DISCIPLINE/</loc>
     <lastmod>2022-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
