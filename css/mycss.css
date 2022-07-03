@@ -4,7 +4,7 @@
 
 /*404*/
 #error-wrap>.error-content {
-  background: rgba(255, 245, 245, 0.7);
+  background: rgba(255, 245, 245, 0.7) !important;
 }
 
 /* 首页文章卡片 */
