@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hhhabcc.github.io/2022/07/03-230557.html</loc>
+    
+    <lastmod>2022-07-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hhhabcc.github.io/2022/07/03-224850.html</loc>
     
     <lastmod>2022-07-03</lastmod>
@@ -172,6 +181,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://hhhabcc.github.io/tags/pixy/</loc>
+    <lastmod>2022-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -232,6 +248,13 @@
   
   <url>
     <loc>https://hhhabcc.github.io/categories/Anime/2010/</loc>
+    <lastmod>2022-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hhhabcc.github.io/categories/Anime/2006/</loc>
     <lastmod>2022-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
