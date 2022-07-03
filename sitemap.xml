@@ -141,13 +141,6 @@
   </url>
   
   <url>
-    <loc>https://hhhabcc.github.io/categories/Anime/2003/</loc>
-    <lastmod>2022-07-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hhhabcc.github.io/categories/Anime/2005/</loc>
     <lastmod>2022-07-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -156,6 +149,13 @@
   
   <url>
     <loc>https://hhhabcc.github.io/categories/Anime/2002/</loc>
+    <lastmod>2022-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hhhabcc.github.io/categories/Anime/2003/</loc>
     <lastmod>2022-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
