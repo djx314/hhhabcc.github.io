@@ -2,6 +2,11 @@
   margin-top: 20px !important;
 }
 
+/*404*/
+#error-wrap>.error-content {
+  background: rgba(255, 245, 245, 0.7);
+}
+
 /* 首页文章卡片 */
 #recent-posts>.recent-post-item {
   background: rgba(255, 245, 245, 0.7);
@@ -29,6 +34,11 @@ div#archive {
 
 /* 标签页面 */
 div#tag {
+  background: rgba(255, 245, 245, 0.7);
+}
+
+/* 分类页面 */
+div#category {
   background: rgba(255, 245, 245, 0.7);
 }
 
