@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hhhabcc.github.io/2022/07/09-201008.html</loc>
+    
+    <lastmod>2022-07-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hhhabcc.github.io/2022/07/09-195854.html</loc>
+    
+    <lastmod>2022-07-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hhhabcc.github.io/2022/07/09-194532.html</loc>
+    
+    <lastmod>2022-07-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hhhabcc.github.io/2022/07/05-223615.html</loc>
     
     <lastmod>2022-07-08</lastmod>
@@ -300,6 +327,20 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://hhhabcc.github.io/tags/EDGE/</loc>
+    <lastmod>2022-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hhhabcc.github.io/tags/Discovery/</loc>
+    <lastmod>2022-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -402,6 +443,20 @@
   
   <url>
     <loc>https://hhhabcc.github.io/categories/Anime/2009/</loc>
+    <lastmod>2022-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hhhabcc.github.io/categories/Anime/2015/</loc>
+    <lastmod>2022-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hhhabcc.github.io/categories/Anime/2008/</loc>
     <lastmod>2022-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
