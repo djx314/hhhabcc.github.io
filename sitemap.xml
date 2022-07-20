@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hhhabcc.github.io/2022/07/20-233004.html</loc>
+    
+    <lastmod>2022-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hhhabcc.github.io/2022/07/14-020842.html</loc>
+    
+    <lastmod>2022-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hhhabcc.github.io/2022/07/20-231331.html</loc>
     
     <lastmod>2022-07-20</lastmod>
@@ -12,15 +30,6 @@
   
   <url>
     <loc>https://hhhabcc.github.io/2022/07/14-023404.html</loc>
-    
-    <lastmod>2022-07-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hhhabcc.github.io/2022/07/14-020842.html</loc>
     
     <lastmod>2022-07-13</lastmod>
     
@@ -557,6 +566,13 @@
   
   <url>
     <loc>https://hhhabcc.github.io/categories/Anime/2011/</loc>
+    <lastmod>2022-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hhhabcc.github.io/categories/Anime/2000/</loc>
     <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
