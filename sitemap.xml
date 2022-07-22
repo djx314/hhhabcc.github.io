@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hhhabcc.github.io/2022/07/23-023938.html</loc>
-    
-    <lastmod>2022-07-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hhhabcc.github.io/2022/07/20-233004.html</loc>
     
     <lastmod>2022-07-20</lastmod>
@@ -299,20 +290,6 @@
 
   
   <url>
-    <loc>https://hhhabcc.github.io/tags/%E6%84%9B%E4%B8%8A%E9%99%B8/</loc>
-    <lastmod>2022-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hhhabcc.github.io/tags/Aiue-Oka/</loc>
-    <lastmod>2022-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hhhabcc.github.io/tags/milky/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -390,14 +367,14 @@
   </url>
   
   <url>
-    <loc>https://hhhabcc.github.io/tags/Queen-Bee/</loc>
+    <loc>https://hhhabcc.github.io/tags/%E3%83%A9%E3%83%B3%E3%82%B9/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hhhabcc.github.io/tags/%E3%83%A9%E3%83%B3%E3%82%B9/</loc>
+    <loc>https://hhhabcc.github.io/tags/Queen-Bee/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -469,13 +446,6 @@
 
   
   <url>
-    <loc>https://hhhabcc.github.io/categories/Manga/</loc>
-    <lastmod>2022-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hhhabcc.github.io/categories/Anime/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -483,7 +453,7 @@
   </url>
   
   <url>
-    <loc>https://hhhabcc.github.io/categories/Anime/2003/</loc>
+    <loc>https://hhhabcc.github.io/categories/Anime/2004/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -497,7 +467,7 @@
   </url>
   
   <url>
-    <loc>https://hhhabcc.github.io/categories/Anime/1992/</loc>
+    <loc>https://hhhabcc.github.io/categories/Anime/2003/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -511,6 +481,13 @@
   </url>
   
   <url>
+    <loc>https://hhhabcc.github.io/categories/Anime/1992/</loc>
+    <lastmod>2022-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://hhhabcc.github.io/categories/Anime/2007/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -518,14 +495,14 @@
   </url>
   
   <url>
-    <loc>https://hhhabcc.github.io/categories/Anime/2010/</loc>
+    <loc>https://hhhabcc.github.io/categories/Anime/2002/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hhhabcc.github.io/categories/Anime/2002/</loc>
+    <loc>https://hhhabcc.github.io/categories/Anime/2010/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -546,7 +523,7 @@
   </url>
   
   <url>
-    <loc>https://hhhabcc.github.io/categories/Anime/2004/</loc>
+    <loc>https://hhhabcc.github.io/categories/Anime/2014/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -554,13 +531,6 @@
   
   <url>
     <loc>https://hhhabcc.github.io/categories/Anime/2013/</loc>
-    <lastmod>2022-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hhhabcc.github.io/categories/Anime/2014/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
